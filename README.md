@@ -1,0 +1,1 @@
+# practical-10-Kruskal-s-algorithm.-
